@@ -93,7 +93,7 @@ namespace cuckoogpu {
 }
 
 
-void print_log(const char *fmt, ...);
+//void print_log(const char *fmt, ...);
 /*void print_log(const char *fmt, ...) {
 	if (SQUASH_OUTPUT) return;
 	va_list args;
